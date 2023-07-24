@@ -1,0 +1,15 @@
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3.1-movies-lab/movies-lab/bin/Debug/net7.0/movies-lab
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3.1-movies-lab/movies-lab/bin/Debug/net7.0/movies-lab.deps.json
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3.1-movies-lab/movies-lab/bin/Debug/net7.0/movies-lab.runtimeconfig.json
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3.1-movies-lab/movies-lab/bin/Debug/net7.0/movies-lab.dll
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3.1-movies-lab/movies-lab/bin/Debug/net7.0/movies-lab.pdb
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3.1-movies-lab/movies-lab/obj/Debug/net7.0/movies-lab.csproj.AssemblyReference.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3.1-movies-lab/movies-lab/obj/Debug/net7.0/movies-lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3.1-movies-lab/movies-lab/obj/Debug/net7.0/movies-lab.AssemblyInfoInputs.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3.1-movies-lab/movies-lab/obj/Debug/net7.0/movies-lab.AssemblyInfo.cs
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3.1-movies-lab/movies-lab/obj/Debug/net7.0/movies-lab.csproj.CoreCompileInputs.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3.1-movies-lab/movies-lab/obj/Debug/net7.0/movies-lab.dll
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3.1-movies-lab/movies-lab/obj/Debug/net7.0/refint/movies-lab.dll
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3.1-movies-lab/movies-lab/obj/Debug/net7.0/movies-lab.pdb
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3.1-movies-lab/movies-lab/obj/Debug/net7.0/movies-lab.genruntimeconfig.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3.1-movies-lab/movies-lab/obj/Debug/net7.0/ref/movies-lab.dll
