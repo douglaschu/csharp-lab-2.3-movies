@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{B12DAD6B-0806-43CD-961E-49C33103C9FD}|Default">
-  <MonoDevelop.Ide.ItemProperties.movies-lab FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.movies-lab PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/doug/Documents/Coding/grand-circus/back-end/labs/lab-3.1-movies-lab/movies-lab/Program.cs" relfile="Program.cs" line="86" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="program.cs" Line="28" Column="37" NotebookId="1" IsPinned="True" />
+      <File FileName="movie.cs" Line="28" Column="34" NotebookId="1" />
+      <File FileName="Validator.cs" Line="57" Column="34" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="movies-lab">
+            <Node name="movies-lab">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
