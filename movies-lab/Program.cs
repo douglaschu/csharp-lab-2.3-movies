@@ -24,11 +24,11 @@ while (runProgram)
 {
     //Displaying list of categories
     //Complicated linq method to display simple result
-        //1. sort categories into groups based on category with GroupBy
-        //2. go through groups, puabll first movie from each group.
-        //3. create list of first movies in list with distinct categories
-        //3. display just the categories from that list of unique movies
-        //4. thus we can give the user a list of all categories
+    //1. sort categories into groups based on category with GroupBy
+    //2. go through groups, pull first movie from each group.
+    //3. create list of first movies in list with distinct categories
+    //3. display just the categories from that list of unique movies
+    //4. thus we can give the user a list of all categories
 
 
     //List<Movie> DistinctCategories = movies
@@ -64,20 +64,20 @@ while (runProgram)
     string category = (Console.ReadLine()).Trim().ToLower();
 
     //Get categories
-        //Use WHERE
+    //Use WHERE
     List<Movie> searchResults = movies.Where(m => m.Category.Trim().ToLower() == category).ToList();
 
     //
     //LINQ step 1:
-        //List<Movie> searchResults = movies.Where(m => m.Category == category);
+    //List<Movie> searchResults = movies.Where(m => m.Category == category);
     //Store linq in a list step 2:
-        //List<Movie> searchResults = movies.Where(m => m.Category == category).ToList;
+    //List<Movie> searchResults = movies.Where(m => m.Category == category).ToList;
     //Clean the string engry
     //List<Movie
 
     //display movies
-        //with foreach loop
-        //plain foreach loop: foreach (Movie m in searchResults)
+    //with foreach loop
+    //plain foreach loop: foreach (Movie m in searchResults)
     foreach (Movie m in searchResults.OrderBy(m => m.Title))
     {
         if (m.YearReleased == 0)
@@ -88,7 +88,7 @@ while (runProgram)
         {
             Console.WriteLine($"{m.Title}. Category: {m.Category}. Year: {m.YearReleased}. Runtime: {m.Runtime} minutes.");
         }
-        
+
     }
 
     runProgram = Validator.GetContinue();
